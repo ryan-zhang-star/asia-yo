@@ -23,9 +23,9 @@
 
 #### 請求參數
 
-source：原始貨幣。
-target：目標貨幣。
-amount：原始貨幣的金額。
+- source：原始貨幣。
+- target：目標貨幣。
+- amount：原始貨幣的金額。
 
 #### 請求範例
 
